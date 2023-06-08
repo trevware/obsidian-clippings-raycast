@@ -18,9 +18,9 @@ Raycast AI has a limit on the amount of tokens that can be used to request a sum
 ### Actions
 
 The extension includes the following actions:
-    * **Create Obsidian Bookmark:** Submits the form and creates a new clipping in Obsidian.
-    * **Open Extension Preferences:** Opens the extension preferences.
-    * **Adjust AI Prompt:** Allows you to adjust the AI prompt.
+   * **Create Obsidian Bookmark:** Submits the form and creates a new clipping in Obsidian.
+   * **Open Extension Preferences:** Opens the extension preferences.
+   * **Adjust AI Prompt:** Allows you to adjust the AI prompt.
 
 ### Screenshots
 
