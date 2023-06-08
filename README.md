@@ -25,4 +25,4 @@ The extension includes the following actions:
 ### Screenshots
 
 ![Clipping Form](./metadata/obs-clippings-form.png)
-![Formatted Clipping in Obsidian](./metadata/obs-clippings-output.png)
+![Formatted Clipping in Obsidian](./assets/obs-clippings-output.png)
