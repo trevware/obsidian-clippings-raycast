@@ -2,7 +2,7 @@
 
 Obsidian Clippings is an **opionated** extension for Raycast that allows users to save things from the web directly to their Obsidian Vault. The extension will save and format the page metadata supplied, including title, sub-folder, tag(s), and comments, with the option to extract and summarize the contents of the page using Raycast AI. If the sub-folder does not yet exist, it will create it. 
 
-Currently, the _format_ of the clipping is hardcoded, though as a mardown file it can be easily manipulated. Choosing to extract the contents of the page will download only **paragraph elements** for a cleaner, minimal look. Pages with no paragraph elements will only save the supplied metadata, and AI summaries will not be included.
+Currently, the _format_ of the clipping is hardcoded, though as a markdown file it can be easily manipulated. Choosing to extract the contents of the page will download only **paragraph elements** for a cleaner, minimal look. Pages with no paragraph elements will only save the supplied metadata, and AI summaries will not be included.
 
 ### Configuration
 
